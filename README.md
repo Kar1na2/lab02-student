@@ -149,6 +149,11 @@ The client should:
 ## Deliverables
 The project structure will look like 
 
+.
+├── Client.java 
+├── README.md
+└── Server.java
+
 ---
 
 ## Rubric 
