@@ -150,8 +150,10 @@ The client should:
 The project structure will look like 
 
 .
-├── Client.java 
+├── Client.java
+ 
 ├── README.md
+
 └── Server.java
 
 ---
